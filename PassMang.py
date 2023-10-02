@@ -1,6 +1,6 @@
 import random
 import string
-import tkinter
+import tkinter #will be used in future for GUI app
 
 menu = ' '  #creates menu to choose option of creating or viewing passwords
 
